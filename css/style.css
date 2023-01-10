@@ -1,0 +1,202 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #F9F4EF;
+    color: #716040;
+    box-sizing: border-box;
+}
+
+.navbar a {
+    color: #716040
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.nav-item .active {
+    color: #716040 !important;
+}
+
+.phone img {
+    max-height: 20px;
+}
+
+.coffe {
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+.coffe h1 {
+    margin-top: 32px;
+    font-size: 53px;
+    font-family: 'Libre Baskerville', serif;
+    color: #020826;
+    font-weight: 600;
+}
+
+.coffe p {
+    margin-top: 24px;
+    margin-bottom: 80px;
+}
+
+.coffe .btn-get {
+    background-color: #8C7851;
+    padding: 20px;
+    color: #fff;
+}
+
+.coffe .btn-get:hover {
+    background-color: #716040;
+    color: #fff;
+}
+
+.coffe .btn-reservation {
+    color: #716040;
+}
+
+.coffe .btn-reservation:hover {
+    color: #020826;
+}
+
+.coffe .col-7 img {
+    margin-left: 20px;
+}
+
+#menu {
+    background-color: #01030A;
+}
+
+.menu {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.menu h2 {
+    font-size: 38px;
+    font-family: 'Libre Baskerville', serif;
+    color: #fff;
+}
+
+.menu p {
+    margin-top: 50px;
+    color: #fff;
+}
+
+.menu a {
+    color: #fff;
+    display: block;
+    margin-top: 120px;
+}
+
+.menu a:hover {
+    color: rgb(203, 202, 202);
+}
+
+.featured {
+    margin-top: 180px;
+}
+
+.daftar {
+    margin-top: 80px;
+}
+
+.facility {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.facility h2 {
+    font-size: 38px;
+    font-family: 'Libre Baskerville', serif;
+    color: #020826;
+    margin-top: 100px;
+    margin-bottom: 24px;
+}
+
+.facility a {
+    color: #716040;
+    margin-top: 60px;
+    display: block;
+}
+
+.facility a:hover {
+    color: #877656;
+}
+
+.review h2 {
+    font-size: 52px;
+    font-family: 'Libre Baskerville', serif;
+    color: #020826;
+}
+
+.review h2 span {
+    font-size: 42px;
+    font-family: 'Pacifico', cursive;
+    color: #716040
+}
+
+.tes {
+    margin-top: 80px;
+    background-color: rgb(234, 216, 198);
+    border-radius: 20px;
+    padding: 32px;
+    width: 360px;
+}
+
+.tes img {
+    margin-top: -132px;
+}
+
+.user img {
+    margin-top: 32px;
+}
+
+.user p {
+    margin-top: 36px;
+    margin-left: 20px;
+}
+
+.review .row {
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #020826;
+    margin-top: -160px;
+    color: #fff;
+}
+
+.footer {
+    padding-top: 300px;
+}
+
+.footer h2 {
+    font-size: 42px;
+    font-family: 'Pacifico', cursive;
+}
+
+.footer p {
+    margin-top: 24px;
+}
+
+.footer ul li {
+    list-style: none;
+    margin-top: 10px;
+    margin-left: -32px;
+}
+
+.footer ul {
+    margin-top: 32px;
+}
+
+.copy p {
+    margin-top: 72px;
+    font-size: 12px;
+    color: #dbdcdf;
+}
+
+.copy a {
+    text-decoration: none;
+}
